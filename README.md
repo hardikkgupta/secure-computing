@@ -16,4 +16,4 @@
 - [_The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections_](https://www.usenix.org/conference/usenixsecurity20/presentation/specter) by Michael A. Specter, James Koppel, and Daniel Weitzner; August 2020
 
 ## Cryptography Proofs and Zero-Knowledge
-- [Bulletproofs: Short Proofs for Confidential Transactions and More](https://ieeexplore.ieee.org/document/8418611) by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell; May 2018
+- [_Bulletproofs: Short Proofs for Confidential Transactions and More_](https://ieeexplore.ieee.org/document/8418611) by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell; May 2018
