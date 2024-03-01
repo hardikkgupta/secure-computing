@@ -19,4 +19,4 @@
 - [_Bulletproofs: Short Proofs for Confidential Transactions and More_](https://ieeexplore.ieee.org/document/8418611) by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell; May 2018
 
 ## Web and its Application Security
-- [_Cookie Crumbles: Breaking and Fixing Web Session Integrity_](https://www-users.cselabs.umn.edu/classes/Spring-2024/csci8271/index.php?page=./readings/h-web) by Marco Squarcina, Pedro Adão, Lorenzo Veronese, and Matteo Maffei; August 2023
+- [_Cookie Crumbles: Breaking and Fixing Web Session Integrity_](https://www.usenix.org/conference/usenixsecurity23/presentation/squarcina) by Marco Squarcina, Pedro Adão, Lorenzo Veronese, and Matteo Maffei; August 2023
