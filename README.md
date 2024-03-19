@@ -23,5 +23,5 @@
 - [_Cookie Crumbles: Breaking and Fixing Web Session Integrity_](https://www.usenix.org/conference/usenixsecurity23/presentation/squarcina) by Marco Squarcina, Pedro Adão, Lorenzo Veronese, and Matteo Maffei; August 2023
 
 ## Cryptocurrencies and Smart-Contracts
-- [The Blockchain Imitation Game](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) by Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais; August 2023
-- [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://doi.org/10.1145/3533767.3534218) by Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, and Lei Wu; July 2022. 
+- [_The Blockchain Imitation Game_](https://www.usenix.org/conference/usenixsecurity23/presentation/qin) by Kaihua Qin, Stefanos Chaliasos, Liyi Zhou, Benjamin Livshits, Dawn Song, and Arthur Gervais; August 2023
+- [_WASAI: uncovering vulnerabilities in Wasm smart contracts_](https://doi.org/10.1145/3533767.3534218) by Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo, Haipeng Cai, and Lei Wu; July 2022. 
